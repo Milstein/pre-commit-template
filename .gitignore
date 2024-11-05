@@ -1,0 +1,32 @@
+# JetBrains IDEs
+/.idea/
+
+# Python
+*.pyc
+**/__pycache__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Visual Studio Code
+.vscode/
+.history/
+*.code-workspace
+*.vsix
+
+# Vim
+*.swp
+*.swo
+
+# mkdocs documentation
+/site
+
+# Others
+.DS_Store
+
+# Node
+node_modules/
